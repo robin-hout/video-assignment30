@@ -1,0 +1,133 @@
+
+/* header part */
+header{
+    background-color: #f1ecec;
+    padding: 20px 0;
+}
+
+/* h-rihgt */
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	background-color:#007dc1;
+	border-radius:9px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	padding:6px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #154682;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	background-color:#0061a7;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+ .h_bottom{
+    background-color: #0f92ea;
+    padding: 20px 10px;
+} 
+
+.h_b_right {
+    text-align: right;
+    padding-right: 20px;
+  }  
+  
+  .h_bottom span{
+      color: #ffffff;
+      font-family: sans-serif;
+  }
+
+  nav{}
+  nav ul{
+      list-style: none;
+  }
+  nav ul li{
+      display: inline-block;
+  }
+  nav ul li a {
+    display: inline-block;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: black;
+    padding: 0 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.banner{
+	position: relative;
+}
+
+.banner_content {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 231px;
+    left: 14px;
+    width: 50%;
+    color: #fff;
+}
+
+.b_link{
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:7px 43px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.carousel-control-prev {
+    background: transparent;
+	border: none;
+}
+
+.carousel-control-next {
+    background: transparent;
+	border: none;
+} 
+        
+/* content section */
+.content{
+	
+}
+
+.content_div_ex{
+	padding: 15px;
+
+}
+
+
+.i-class{
+	font-size: 36px;
+	color: #fff;
+	margin-bottom: 15px;
+}
+
+.service h1{
+	font-weight: 800;
+}
